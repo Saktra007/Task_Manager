@@ -7,8 +7,7 @@ This project demonstrates basic CRUD operations, task filtering, and state manag
 
 ## 🚀 Live Demo
 
-👉 https://your-demo-link.vercel.app  
-_(Replace with your actual Vercel/Netlify link)_
+https://task-manager-beryl-psi.vercel.app/
 
 ---
 
